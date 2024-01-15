@@ -1,6 +1,6 @@
-# 2024_Student_File_System_SQL_-Injection
+# 2024_Student_File_Managment_System_SQL_-Injection
 
-+ **Exploit Title:** 2024_Student_File_System_SQL_-Injection
++ **Exploit Title:** 2024_Student_File_Managment_System_SQL_-Injection
 + **Date:** 2024-13-01
 + **Exploit Author:** Burak Sevben
 + **Vendor Homepage:** https://code-projects.org/student-file-management-system-in-php-with-source-code/
